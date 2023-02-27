@@ -1,0 +1,23 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "STFH26U9BW.com.moondev.TeamManagement"],
+             "components": [
+               {
+                  "/": "/login/*",
+                  "?": { "secretcode": "????" },
+                  "comment": "Secre code to join a workspace"
+               }
+             ]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": []
+   },
+
+    "appclips": {
+        "apps": []
+    }
+}
